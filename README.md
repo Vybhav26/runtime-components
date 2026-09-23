@@ -1,3 +1,3 @@
 # Runtime Components
 
-A collection of runtime configuration components and an installation script.
+A collection of scripts, install.sh, and README for CS 193's Week 5 HW.
